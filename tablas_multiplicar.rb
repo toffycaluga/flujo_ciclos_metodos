@@ -7,3 +7,4 @@ def tablas_multiplicar()
         end
     end
 end
+tablas_multiplicar()

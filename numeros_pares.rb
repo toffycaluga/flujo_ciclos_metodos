@@ -8,3 +8,4 @@ def numeros_pares()
         i +=1
     end
 end
+numeros_pares()

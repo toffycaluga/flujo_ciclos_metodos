@@ -8,3 +8,4 @@ def numeros_impares()
         j +=1
     end
 end
+numeros_impares()
