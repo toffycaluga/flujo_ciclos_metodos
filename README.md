@@ -22,7 +22,9 @@ En el archivo `triangulo.rb`, se muestra cómo dibujar un triángulo utilizando 
 
 1. Asegúrate de tener Ruby instalado en tu sistema.
 2. Clona este repositorio en tu máquina local.
-   git clone[ https://github.com/YOUR-USERNAME/YOUR-REPOSITORY](https://github.com/toffycaluga/flujo_ciclos_metodos.git)
+
+   `git clone[ https://github.com/YOUR-USERNAME/YOUR-REPOSITORY](https://github.com/toffycaluga/flujo_ciclos_metodos.git)`
+
 3. Navega hasta la carpeta del ejemplo que deseas ejecutar.
 4. Ejecuta el archivo Ruby correspondiente utilizando el comando `ruby nombre_del_archivo.rb` o bien `ruby main.rb <argumento>` para ejecutarlos todos (recuerda que el argumento es para entregar la cantidad de pisos que quieres que posea el triangulo).
 
